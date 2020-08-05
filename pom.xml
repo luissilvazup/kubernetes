@@ -29,6 +29,7 @@
     </dependencies>
 
     <build>
+        <finalName>kubernetes-application</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
